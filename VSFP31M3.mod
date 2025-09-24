@@ -26,7 +26,7 @@ ENDCOMMENT
 NEURON {
 	SUFFIX VSFP31M3
 	NONSPECIFIC_CURRENT i
-	GLOBAL S1ONzero, S1OFFzero, S2niONzero, S2niOFFzero, S2ipONzero, S2ipONzero, S12pONzero, S12pOFFzero, S12nONzero, S12nOFFzero
+	GLOBAL S1ONzero, S1OFFzero, S2niONzero, S2niOFFzero, S2ipONzero, S12pONzero, S12pOFFzero, S12nONzero, S12nOFFzero
 	GLOBAL R1nONzero, R1nOFFzero, R1pONzero, R1pOFFzero, R2pONzero, R2pOFFzero, R2nONzero, R2nOFFzero
 	GLOBAL zGateS1, zGateS2, zGateS12p, zGateS12n
 	GLOBAL deltaGateS1, deltaGateS2ni, deltaGateS2i, deltaGateS2ip, deltaGateS12p, deltaGateS12n
